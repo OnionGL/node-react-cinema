@@ -1,1 +1,1 @@
-# node-react-cinema
+# cinema-diplom
